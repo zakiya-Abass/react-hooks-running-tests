@@ -35,6 +35,11 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "mocha": "^8.2.1"
-  }
+    "chai": "^4.3.7",
+    "mocha": "^8.4.0"
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
